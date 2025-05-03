@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wallet_appui/pages/home_page.dart';
+import 'package:wallet_app_ui/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());

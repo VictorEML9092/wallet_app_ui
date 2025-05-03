@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:wallet_appui/pages/bill_page.dart';
-import 'package:wallet_appui/pages/pay_page.dart';
-import 'package:wallet_appui/pages/send_page.dart';
-import 'package:wallet_appui/util/my_button.dart';
-import 'package:wallet_appui/util/my_card.dart';
-import 'package:wallet_appui/util/my_list_tile.dart';
+import 'package:wallet_app_ui/pages/bill_page.dart';
+import 'package:wallet_app_ui/pages/pay_page.dart';
+import 'package:wallet_app_ui/pages/send_page.dart';
+import 'package:wallet_app_ui/util/my_button.dart';
+import 'package:wallet_app_ui/util/my_card.dart';
+import 'package:wallet_app_ui/util/my_list_tile.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
